@@ -1,0 +1,2 @@
+This is a new file that should solve the issue
+bla bla bla
